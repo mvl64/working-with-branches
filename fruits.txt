@@ -4,3 +4,5 @@ Grape
 Melon
 Raspberry
 Blackberries
+Bananas
+Pineapple
