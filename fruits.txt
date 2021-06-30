@@ -5,3 +5,5 @@ Melon
 Raspberry
 Strawberries
 Blackberries
+Bananas
+Pineapple
